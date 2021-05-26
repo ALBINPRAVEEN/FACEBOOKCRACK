@@ -1,7 +1,7 @@
-# Firecrack :fire:
+# FACEBOOKCRACK :fire:
 
-What is firecrack tools ?
-Firecrack tools are tools for testing and testing on websites or Facebook accounts, conducting<br>
+What is facebookcrack tools ?
+Facebookcrack tools are tools for testing and testing on websites or Facebook accounts, conducting<br>
 testing on hundreds of Facebook accounts with random accounts and random wordlist, and there are<br>
 for testing websites, such as admin finder and deface with file upload method, and Bing dorking<br>
 to collect Many domains, Bing Dorking is useful if you are collecting a lot of domains.<br>
@@ -16,19 +16,25 @@ more tools: :point_down:<br>
 5.deface (file upload)
 ```
 
+
 ## :camera: Screenshot:
-![1](https://github.com/ALBINPRAVEEN/FACEBOOKCRACK/blob/master/img/1.png)
-![2](https://github.com/ALBINPRAVEEN/FACEBOOKCRACK/blob/master/img/2.png)
-![3](https://github.com/ALBINPRAVEEN/FACEBOOKCRACK/blob/master/img/3.png)
+<img width="100%" src="img/2.png"/>
+<img width="100%" src="img/3.png"/>
+
 ## :mag_right: admin finder:
-![4](https://github.com/ALBINPRAVEEN/FACEBOOKCRACK/blob/master/img/admin_pan.png)
+<img width="100%" src="img/admin_pan.png"/>
+
 ## :page_with_curl: bing dorking:
-![5](https://github.com/ALBINPRAVEEN/FACEBOOKCRACK/blob/master/img/dorking.png)
+<img width="100%" src="img/dorking.png"/>
+
 ## :game_die: facebook hacking random attack:
-![6](https://github.com/ALBINPRAVEEN/FACEBOOKCRACK/blob/master/img/random_1.png)
-![7](https://github.com/ALBINPRAVEEN/FACEBOOKCRACK/blob/master/img/random_2.png)
+<img width="100%" src="img/random_1.png"/>
+<img width="100%" src="img/random_2.png"/>
+
 ## :globe_with_meridians: deface:
-![8](https://github.com/ALBINPRAVEEN/FACEBOOKCRACK/blob/master/img/deface.png)
+<img width="100%" src="img/deface.png"/>
+
+
 
 ## install and usage:
 
@@ -38,7 +44,7 @@ more tools: :point_down:<br>
 * `git clone https://github.com/ALBINPRAVEEN/FACEBOOKCRACK`
 * `cd Firecrack`
 * `pip2 install -r requirements.txt`
-* `python2 firecrack.py`
+* `python2 FACEBOOKCRACK.py`
 * `help`
 
 **Linux:**
