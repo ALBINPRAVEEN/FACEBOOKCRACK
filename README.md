@@ -6,7 +6,7 @@ testing on hundreds of Facebook accounts with random accounts and random wordlis
 for testing websites, such as admin finder and deface with file upload method, and Bing dorking<br>
 to collect Many domains, Bing Dorking is useful if you are collecting a lot of domains.<br>
 more tools: :point_down:<br>
-<br>firecrack fiture:<br>
+<br>facebookcrack fiture:<br>
 
 ```
 1.hack facebook (random attack)
